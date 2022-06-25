@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lobster&display=swap');
+:root {
+    --primary-color:
+    #6C63FF;
+
+}
+html{
+    text-align: center;
+}
+
+.header_1{
+    color:white;
+    
+    font-family: 'Fjalla One', sans-serif;
+    padding: 50px;
+    text-align: center;
+    border-radius: 4px;
+    
+
+
+}
+.header_2{
+    color: var(--primary-color);
+}
+ul{
+    list-style: none;
+    text-align: center;
+    margin-bottom: 10px;
+
+    
+}
+li{
+    display: inline;
+    margin: 10px;
+   
+  
+  
+    
+}
+nav{
+    padding: 8rem;
+}
+.LINKS{
+  
+    display: inline;
+    text-decoration: none;
+    text-align: right;
+    color: white;
+    text-shadow: 2rem;
+    margin: 30px;
+
+   
+
+    
+}
+
+.BGM_COLOR{
+    background-color: #6C63FF;
+    text-align: right;
+    border-radius: 10px;
+    
+}
+
+footer{
+    background-color: var(--primary-color);
+    border-bottom-right-radius: 2em;
+    padding: 5rem;;
+   
+
+}
+.button{
+    text-decoration: none;
+   padding: 5px;
+    background-color:var(--primary-color);
+    border-radius: 5px;
+    margin-top: 2rem;
+    color: #FFF5EE;
+    
+
+}
+.technologies{
+    background-color: #FFF5EE;
+    padding: 4rem;
+    border-radius: 10px;
+}
+.PROJECT{
+    padding: 50PX;
+}
+.social{
+    color: #FFF5EE;
+   text-decoration: none;
+   text-align: right;
+   margin: 20px;
+   margin-top: 20px;
+   
+}
+.CONNECT{
+    color: #FFF5EE;
+}
